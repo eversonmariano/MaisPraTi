@@ -1,7 +1,5 @@
-Aqui está um exemplo de como você pode criar um `README.md` para o seu projeto no GitHub. Esse arquivo irá detalhar os passos necessários para baixar e executar os exercícios, incluindo a inicialização do projeto e a instalação de dependências.
-
 ```markdown
-# Lista de Exercícios
+# Lista de Exercícios - 01
 
 Este repositório contém uma lista de exercícios em JavaScript e TypeScript. Siga os passos abaixo para baixar, configurar e executar os exercícios em seu ambiente local.
 
@@ -86,12 +84,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ```
 
-### Explicações:
-
-- **Clonar o repositório**: Isso permite que outros desenvolvedores baixem seu projeto para suas máquinas locais.
-- **npm init**: Comandos para inicializar o projeto Node.js, incluindo `npm init -y` para aceitar as configurações padrão.
-- **npm install**: Este comando instala todas as dependências listadas no `package.json`.
-- **npm install prompt-sync**: Um exemplo de instalação de uma dependência específica usada nos exercícios.
-- **node 01.js**: Como executar um exercício específico após a configuração.
-
-Este `README.md` fornece uma visão clara dos passos necessários para configurar e executar os exercícios, tornando-o acessível para outros desenvolvedores que possam querer usar ou contribuir com o seu repositório.
