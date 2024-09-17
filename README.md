@@ -1,6 +1,5 @@
 ```markdown
-# Lista de Exercícios - 01
-
+# Lista de Exercícios
 Este repositório contém uma lista de exercícios em JavaScript e TypeScript. Siga os passos abaixo para baixar, configurar e executar os exercícios em seu ambiente local.
 
 ## Pré-requisitos
