@@ -60,7 +60,7 @@ npm install prompt-sync
 Após configurar o ambiente, você pode executar os exercícios. Por exemplo, para executar o exercício 01, use o seguinte comando:
 
 ```bash
-node 01.js ou node.ts
+node 01.js ou node 01.ts
 ```
 
 Certifique-se de estar no diretório correto e que o arquivo `01.js` exista no diretório.
@@ -70,7 +70,7 @@ Certifique-se de estar no diretório correto e que o arquivo `01.js` exista no d
 Basta substituir `01.js` pelo nome do arquivo que deseja executar, como:
 
 ```bash
-node 02.js
+node 01.js ou node 01.ts
 ```
 
 ## Contribuição
