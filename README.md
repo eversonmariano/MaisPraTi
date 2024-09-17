@@ -24,7 +24,7 @@ Substitua `seu-usuario` e `seu-repositorio` pelo nome de usuário e repositório
 Entre no diretório do projeto clonado:
 
 ```bash
-cd seu-repositorio
+cd Lista-0X
 ```
 
 ### 3. Inicializar o projeto Node.js
@@ -60,7 +60,7 @@ npm install prompt-sync
 Após configurar o ambiente, você pode executar os exercícios. Por exemplo, para executar o exercício 01, use o seguinte comando:
 
 ```bash
-node 01.js
+node 01.js ou node.ts
 ```
 
 Certifique-se de estar no diretório correto e que o arquivo `01.js` exista no diretório.
